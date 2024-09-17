@@ -1,0 +1,14 @@
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.AssemblyInfo.cs
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\bin\Debug\net8.0\LeetCode_LongestPalendrome.exe
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\bin\Debug\net8.0\LeetCode_LongestPalendrome.deps.json
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\bin\Debug\net8.0\LeetCode_LongestPalendrome.runtimeconfig.json
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\bin\Debug\net8.0\LeetCode_LongestPalendrome.dll
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\bin\Debug\net8.0\LeetCode_LongestPalendrome.pdb
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.dll
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\refint\LeetCode_LongestPalendrome.dll
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.pdb
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\LeetCode_LongestPalendrome.genruntimeconfig.cache
+C:\Users\Owen\source\repos\LeetCode_LongestPalendrome\LeetCode_LongestPalendrome\obj\Debug\net8.0\ref\LeetCode_LongestPalendrome.dll
